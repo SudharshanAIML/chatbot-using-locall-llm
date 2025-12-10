@@ -1,2 +1,7 @@
 .env
 .env
+.env
+venv/
+.venv/
+langchain-series/
+chatbot/langchain-series/
